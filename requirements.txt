@@ -1,0 +1,12 @@
+torch
+torchaudio
+transformers
+datasets
+librosa
+scikit-learn
+matplotlib
+numpy
+pandas
+jupyter
+streamlit
+gradio
