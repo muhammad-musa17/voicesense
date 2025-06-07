@@ -40,5 +40,5 @@ Built with **PyTorch**, **Librosa**, and **Gradio**, the model is trained on the
 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/voicesense.git
+git clone https://github.com/muhammad-musa17/voicesense.git
 cd voicesense
